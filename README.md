@@ -1,1 +1,2 @@
 # CC-Fraud-Detection
+Use Ensemble Learning with Logistic Regression, Fully Connected Neural Networks, SVM Classifier, Decision Trees, and k-Nearest Neighbors to classify credit card transactions as fraudelent. The data being used is has 30 features--28 of which are the results of a PCA transformation to obscure personal information of the transactions. The dataset is highly unbalanced, so ensemble learning will combine several different approaches to improve performance.
